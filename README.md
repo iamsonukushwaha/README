@@ -1,7 +1,7 @@
-<br><br><br><br><br><br>
+<br><br><br><br>
 
 
-** &copy; [Sonu kumar kushwaha](https://github.com/flyingsonu122)**
+**&copy; [Sonu kumar kushwaha](https://github.com/flyingsonu122)**
 
 ### Thanks!
 
