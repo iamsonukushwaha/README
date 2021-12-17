@@ -5,7 +5,7 @@
 
 ### Thanks!
 
-Thank you for being here! You can find my other projects **[here](https://github.com/flyingsonu122?tab=repositories)**.
+Thank you for being here! You can find my other **projects here **.
 
 [![Built with Love](https://forthebadge.com/images/badges/built-with-love.svg)](https://linktr.ee/flyingsonu) 
 
