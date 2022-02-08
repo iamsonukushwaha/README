@@ -19,7 +19,7 @@ Thank you for being here! You can find my other **[projects here](https://github
 	<a href="https://www.facebook.com/sonukumarkushwaha736"><img src="https://img.shields.io/badge/Facebook--_.svg?style=social&logo=facebook" alt="Facebook"></a>
 	<a href="https://www.instagram.com/flyingsonu736/"><img src="https://img.shields.io/badge/Instagram--_.svg?style=social&logo=instagram" alt="Instagram"></a>
 	<a href="https://www.singlebucks.live/"><img src="https://img.shields.io/badge/Blogger--_.svg?style=social&logo=blogger" alt="Blogger"></a>
-	<a href="https://www.youtube.com/channel/UCugIYeIc-HzCp-SZxRwuQbA"><img src="https://img.shields.io/youtube/channel/subscribers/UCugIYeIc-HzCp-SZxRwuQbA?label=YouTube&style=social&logo=YouTube" alt="YouTube"></a>
+	<a href="https://www.youtube.com/channel/UCLSsTx4FVQMiNuuUbwFM7QA"><img src="https://img.shields.io/youtube/channel/subscribers/UCugIYeIc-HzCp-SZxRwuQbA?label=YouTube&style=social&logo=YouTube" alt="YouTube"></a>
 	<a href="https://twitter.com/sonukumarkush12"><img src="https://img.shields.io/twitter/follow/sonukumarkush12?label=Follow&style=social" alt="Twitter"></a>
 	
 	
