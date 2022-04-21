@@ -29,6 +29,6 @@ Thank you for being here! You can find my other **[projects here](https://github
 
 <br>
 <p align="center">
-<a href="https://youtube.com/playlist?list=PLPTNm43hfM6FAXNFV1_jBKuehow6Rkb6D"><img alt="Have a good day!" src="https://media.giphy.com/media/WQOFQXuVEZ90MtDdsx/giphy.gif" width="200px"></a>
+<a href="https://www.youtube.com/channel/UCLSsTx4FVQMiNuuUbwFM7QA"><img alt="Have a good day!" src="https://media.giphy.com/media/WQOFQXuVEZ90MtDdsx/giphy.gif" width="200px"></a>
 </p>
 
