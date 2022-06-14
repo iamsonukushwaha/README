@@ -3,11 +3,9 @@
 
 **&copy; [Sonu Kumar Kushwaha](https://flyingsonu122.github.io)**
 
-### Thanks!
+
 
 Thank you for being here! You can find my other **[projects here](https://github.com/flyingsonu122?tab=repositories)**.
-
-[![Built with Love](https://forthebadge.com/images/badges/built-with-love.svg)](https://linktr.ee/flyingsonu) 
 
 <br><br>
 
@@ -26,9 +24,3 @@ Thank you for being here! You can find my other **[projects here](https://github
 </p>
 
 <br>
-
-<br>
-<p align="center">
-<a href="https://www.youtube.com/channel/UCLSsTx4FVQMiNuuUbwFM7QA"><img alt="Have a good day!" src="https://media.giphy.com/media/WQOFQXuVEZ90MtDdsx/giphy.gif" width="200px"></a>
-</p>
-
