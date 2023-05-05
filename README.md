@@ -1,11 +1,8 @@
 <br><br><br><br>
 
 
-**&copy; [Sonu Kumar Kushwaha](https://flyingsonu122.github.io)**
+**&copy; [Sonu Kumar Kushwaha](https://singlebucks.blogspot.com)**
 
-
-
-Thank you for being here! You can find my other **[projects here](https://github.com/flyingsonu122?tab=repositories)**.
 
 <br><br>
 
